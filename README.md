@@ -1,4 +1,4 @@
-INTRODUCTION
+#INTRODUCTION#
 
 A supermarket is a self-service shop offering wide variety of food, beverages and household products, organized into sections. The growth of supermarkets in most populated cities are increasing and market competitions are also high. This dataset is one of the historical sales of Supermarket Company which has recorded in 3 different branches for 3 months data. Likewise there are also major problems faced by some supermarket stores. This project contains a case study, analysis and visualization of the growth of supermarkets in most populated cities.
 The Aim of doing this project is to get the valuable and meaningful insight of how the growth of supermarkets in most populated cities has increased.
@@ -26,6 +26,7 @@ Packages used are:
 3.	Datetime
 4.	Seaborn
 5.	Matplotlib
+
 Data cleaning: After downloading the data from kaggle, I needed to clean the data in order to perform an Exploratory Data Analysis. First I checked for the information about the columns and made sure they are all align in which after I checked for missing data just to be sure if there were some missing data present in the data set and also I checked if there were also duplicated data present but none on the two were present either. I also separated the date and time which I noticed they were joined together in the imported data set, I imported Datetime by doing this. 
 After checking all these and see the balance I proceeded to the Exploratory Data analysis which I performed univariate bivariate and multivariate analysis.
 
