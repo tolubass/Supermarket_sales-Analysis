@@ -1,7 +1,11 @@
                                       INTRODUCTION
 
 A supermarket is a self-service shop offering wide variety of food, beverages and household products, organized into sections. The growth of supermarkets in most populated cities are increasing and market competitions are also high. This dataset is one of the historical sales of Supermarket Company which has recorded in 3 different branches for 3 months data. Likewise there are also major problems faced by some supermarket stores. This project contains a case study, analysis and visualization of the growth of supermarkets in most populated cities.
+
+
 The Aim of doing this project is to get the valuable and meaningful insight of how the growth of supermarkets in most populated cities has increased.
+
+
 The Dataset I used was gotten from kaggle, which includes 1000 rows and 17 columns in which the columns were made of:
 1.	Invoice ID
 2.	Branch
